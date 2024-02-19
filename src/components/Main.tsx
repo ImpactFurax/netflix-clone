@@ -1,7 +1,5 @@
-import { useState } from "react"
-
 const Main = () => {
-  const [movies, setMovies] = useState([]);
+  // const [movies, setMovies] = useState([]);
 
   return (
     <div>Main</div>
